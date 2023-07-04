@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { LinkHTMLAttributes } from 'react';
 
 export const About = () => {
   return (
